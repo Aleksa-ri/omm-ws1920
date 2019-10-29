@@ -1,7 +1,7 @@
 Additional Material & Links to understand Javascript (Tutorial 1)
 -----------------------------------------------
 
-
+Here we provide some live coding and excercises during the lecture
 
 
 JS - Functions:
